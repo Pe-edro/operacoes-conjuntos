@@ -1,10 +1,10 @@
-# 🧮 Trabalho Prático: Matemática para Computação
+# Trabalho Prático: Matemática para Computação
 
 Repositório acadêmico oficial desenvolvido para a disciplina de **Matemática para Computação** do curso de **Tecnologia em Desenvolvimento de Software Multiplataforma (DSM)** da **Faculdade de Tecnologia de Osasco - Prefeito Hirant Sanazar (FATEC Osasco)**.
 
 ---
 
-## 👥 Integrantes e Divisão de Camadas
+## Integrantes e Divisão de Camadas
 
 O projeto foi estruturado em três camadas modulares distintas, combinando implementações nativas e manuais de estruturas discretas, teoria dos números e uma aplicação prática em sistemas de recomendação.
 
@@ -16,7 +16,7 @@ O projeto foi estruturado em três camadas modulares distintas, combinando imple
 
 ---
 
-## 📂 Detalhes Técnicos dos Módulos
+## Detalhes Técnicos dos Módulos
 
 ### 1. Operações com Conjuntos (`conjuntos.py`)
 Implementa do zero as seguintes operações discretas fundamentais:
@@ -43,7 +43,7 @@ Desenvolvido em Java sem bibliotecas de coleção avançadas para demonstrar a m
 
 ---
 
-## 🛠️ Guia de Instalação dos Pré-requisitos
+## Guia de Instalação dos Pré-requisitos
 
 Para executar os códigos contidos neste repositório, certifique-se de possuir o **Python** e o **Java Development Kit (JDK)** instalados em seu ambiente.
 
@@ -68,7 +68,7 @@ Para executar os códigos contidos neste repositório, certifique-se de possuir 
 
 ---
 
-## 🚀 Como Clonar e Executar o Projeto
+## Como Clonar e Executar o Projeto
 
 1. Clone o repositório em sua máquina local utilizando o Git:
    ```bash
@@ -101,5 +101,5 @@ Para compilar e executar o sistema de recomendação desenvolvido por Rafael:
 
 ---
 
-## 📄 Licença
+## Licença
 Trabalho acadêmico desenvolvido para fins educacionais na FATEC Osasco. Uso livre para consulta e estudos.
